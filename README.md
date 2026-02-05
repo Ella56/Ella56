@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👩‍💻 Junior Python & Django Developer  <br>🌱 I’m currently learning: REST APIs , PostgreSQL ,Git<br>🔧 I'm currently building: practice projects and real-use cases  <br>✨My Goal is to Grow as a backend developer and work on real-world projects  
+ 👩‍💻 Junior Python & Django Developer  <br>🌱 I’m currently learning: REST APIs ,PostgreSQL ,Git ,Celery ,Redis <br>🔧 I'm currently building: practice projects and real-use cases  <br>✨My Goal is to Grow as a backend developer and work on real-world projects  
 
 
 ## 🌐 Socials:
